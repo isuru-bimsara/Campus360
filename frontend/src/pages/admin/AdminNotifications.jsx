@@ -1,5 +1,3 @@
-
-
 import { useEffect, useState, useCallback } from "react";
 import { notificationsApi } from "../../api/notifications";
 import {

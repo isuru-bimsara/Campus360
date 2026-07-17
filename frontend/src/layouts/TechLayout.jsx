@@ -1,5 +1,3 @@
-
-
 // frontend/src/layouts/TechLayout.jsx
 
 import { NavLink, Outlet, useNavigate } from "react-router-dom";
