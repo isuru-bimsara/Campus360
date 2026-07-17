@@ -1,5 +1,3 @@
-
-
 package com.smart.Uni.controller;
 
 import com.smart.Uni.dto.response.ApiResponse;
